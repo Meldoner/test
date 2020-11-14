@@ -1,1 +1,1 @@
-# Установить pyautogui - pip3 install pyautogui
+## Установить pyautogui - ```pip3 install pyautogui```
